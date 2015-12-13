@@ -1,0 +1,6 @@
+E:\Clojtra\1.-Zadaca\Lista\Lista\bin\Debug\Lista.exe.config
+E:\Clojtra\1.-Zadaca\Lista\Lista\bin\Debug\Lista.exe
+E:\Clojtra\1.-Zadaca\Lista\Lista\bin\Debug\Lista.pdb
+E:\Clojtra\1.-Zadaca\Lista\Lista\obj\Debug\Lista.csprojResolveAssemblyReference.cache
+E:\Clojtra\1.-Zadaca\Lista\Lista\obj\Debug\Lista.exe
+E:\Clojtra\1.-Zadaca\Lista\Lista\obj\Debug\Lista.pdb
